@@ -24,6 +24,11 @@ ReactDOM.render(<App/>, document.getElementById('app'))
 6 npm start
 7 now hit the browser with **localhost:3000**
 
+Event Loop
+
+![Uploading Screenshot 2022-05-14 at 7.57.38 PM.png…]()
+
+
 
 Javascript Engine Architecture
 
