@@ -25,8 +25,7 @@ ReactDOM.render(<App/>, document.getElementById('app'))
 7 now hit the browser with **localhost:3000**
 
 Event Loop
-
-![Uploading Screenshot 2022-05-14 at 7.57.38 PM.png…]()
+<img width="1161" alt="Screenshot 2022-05-14 at 7 57 38 PM" src="https://user-images.githubusercontent.com/71251375/168433916-e6007c5b-eb86-4123-8677-f42fd6806781.png">
 
 
 
